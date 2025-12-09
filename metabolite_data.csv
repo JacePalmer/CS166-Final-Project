@@ -1,0 +1,25 @@
+,Platforms,Specimens,Experimental group,Control group,Up-regulated metabolites,Down-regulated metabolites,References
+Metabolomics studies for HCC early diagnosis,CE-MS,Serum,DEN-induced HCC (n=7),Healthy control (n=7),Creatine,Betaine,-39
+,1H-NMR,Urine,DEN-induced HCC (n=18),Healthy control (n=18),"Creatinine, putrescine, choline, taurine",Hippurate,-38
+,,Serum,HCC serum (n=262),"Liver cirrhosis (n=76), hepatitis B (n=74)",,,
+,LC-MS,Serum,DEN-induced HCC (n=28),Healthy control (n=28),"Taurocholic acid, lysophosphoethanolamine, lysophosphatidylcholine",-,-40
+,UPLC-MS,Serum,HCC serum (n=75),Healthy control (n=134),"Leucine, phenylalanine, tyrosine, arachidonic acid, 5-hydroxyhexanoic acid, tauroursodeoxycholic acid","Oleamide, androsterone sulfate, lysophosphatidic acid",-81
+,GC/MS,Urine,HCC urine (n=20),Healthy control (n=20),"Octanedioic acid, glycine, L-tyrosine, L-threonine, butanedioic acid","Hypoxanthine, primidine",-56
+,UPLC-MS,Plasma,HCC plasma (n=163),Healthy control (n=163),"16α-hydroxydehydroepiandrosterone 3-sulfate, glycocholic acid, glycochenodeoxycholic acid 3-sulfate, glycochenodeoxycholic acid 3-glucuronide, hydroxyphenyllactic acid, cystathionine, citrulline, arginine, sarcosine, quinolinate","4-androsten-3β,17β-diol 3-sulfate, 4-androsten-3β,17β-diol sulfate, ceramide, citraconate",-82
+,1H-NMR,Serum,Advanced HCC (n=36),Early HCC (n=28),"Glycine, glucose, galactose, N-acetylglycoproteins","Alanine, glutamine, 1-methylhistidine, lactate, lysine, valine",-83
+,1H-NMR,Serum,HCC serum (n=144),Healthy control (n=222),"Tyrosine, phenylalanine, citrate, glucose, propylene glycol","Glutamate, leucine, isoleucine, choline, N-acetylglycoproteins, unsaturated lipids",-84
+,GC-MS,Serum,HCC serum (n=39),"Healthy control (n=61), hepatitis B (n=49), cirrhosis (n=52)",Glutamate,"Palmitic acid, asparagine",-87
+,LC-MS,Serum,HCC serum (n=30),"Hepatitis B (n=30), liver cirrhosis (n=29)","Taurodeoxy cholic acid, 1,2-diacyl-3-β-D-galactosyl-sn-glycerol",Glycyrrhizic acid,-88
+,1H-NMR,Serum,HCC serum (n=40),Hepatitis C (n=22),"Choline, valine",Creatinine,-89
+,"UPLC-MS, GC-MS",Serum,HCC serum (n=30),"Healthy control (n=30), HCV related cirrhosis (n=27)","12-hydroxyeicosatetraenoic acid, sphingosine, xanthine, serine, glycine, aspartate",-,-90
+,GC/MS,Plasma,HCC plasma (n=22),HCV-related cirrhosis (n=22),"Oleic acid, octanoic acid, glycine",Capric acid,-91
+,"UPLC-MS, GC-MS",Plasma,HCC plasma (n=20),"Liver cirrhosis (n=7), acute myelogenous leukemia (n=22)","Glycodeoxycholate, deoxycholate 3-sulfate, bilirubin","Lignoceric acid, nervonic acid",-92
+,GC-MS,Plasma,HCC plasma (n=40),Liver cirrhosis (n=49),"Glutamic acid, lactic acid, valine, isoleucine, leucine, α-tocopherol, cholesterol","Citric acid, sorbose",-93
+,LC-MS,Serum,HCC serum (n=36),"Healthy control (n=31), liver cirrhosis (n=41)",-,"Phenylalanyl-tryptophan, glycocholate",-94
+,"LC-MS, GC-MS",Serum,Early HCC serum (n=50),"Healthy control (n=50), liver cirrhosis (n=47)","Methionine, proline, ornithine","Pimelylcarnitine, octanoylcarnitine",-95
+,UPLC-MS,Serum,HCC serum (n=78),Liver cirrhosis (n=184),"Sphingosine-1-phosphate, lysophosphatidylcholine","Glycochenodeoxycholic acid 3-sulfate, glycocholic acid, glycodeoxycholic acid, taurocholic acid, taurochenodeoxycholate",-96
+,UPLC-MS,Serum,HCC serum (n=40),Liver cirrhosis (n=49),Phe-Phe,"Glycholic acid, glycodeoxycholic acid, 3β, 6β-dihydroxy-5β-cholan-24-oic acid, oleoyl carnitine",-20
+,"1H-NMR, LC-MS",Serum,HCC serum (n=43),Liver cirrhosis (n=42),"Ascorbate, oxaloacetate, glycerol","Formate, tyrosine, phytosphingosine",-97
+,CE-MS,Serum,HCC serum (n=22),"Healthy control (n=30), liver cirrhosis (n=25)",2-hydroxybutyric acid,"Tryptophan, glutamine",-98
+,GC-MS,Plasma,HCC plasma (n=63),Liver cirrhosis (n=65),"Glycine, pyroglutamic acid, linoleic acid","Valine, serine, isoleucine, creatinine, lauric acid, phosphoric acid",-99
+,1H-NMR,Serum,HCC serum (n=61),Liver cirrhosis (n=97),"Glutamate, acetate, and N-acetylglycoproteins",Glutamine,-100
